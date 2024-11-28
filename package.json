@@ -4,7 +4,8 @@
   "main": "host.js",
   "type": "module",
   "scripts": {
-    "test": "nodemon server.js"
+    "test": "nodemon server.js",
+    "start": "node sever.js"
   },
   "keywords": [],
   "author": "Mr Phil",
